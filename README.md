@@ -6,11 +6,13 @@
 #### All the projects. 
 
 I am a philosopher, programmer, artist, mother, and humane technologist.
+
 Find me any day: listening to music, solving problems, rummaging on the banks of the Stillaguamish River and finding ways to improve the experience between tech and humans.
 
 Not bound by any specific modality, but certainly more experienced in engineering team processes, web tech, and IoT.
 
 **Tech Skills:** AWS, JS, NODE, HTML, CSS, RUBY, RAILS, PYTHON, JAVA
+
 **Life Skills:** parenting, friendship, emphathy, conflict resolution, introspection, humility.
 
 - 🔭 I’m currently working on this page. 
