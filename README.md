@@ -1,9 +1,22 @@
 
+
 <img src="https://github.com/ReneCapella/ReneCapella/blob/main/header.png">
 
+### What kind of projects do I like to work on?
+#### All the projects. 
+
+I am a philosopher, programmer, artist, mother, and human listening to music, solving problems, and finding ways to improve the experience between tech and humans.
+
+Not bound by the modality, but certainly more experienced in engineering team processes, web tech, IoT, and empathy:)
+
+Skills: AWS, JS, NODE, HTML, CSS, RUBY, RAILS, PYTHON, JAVA
+
+- 🔭 I’m currently working on this page. 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12125090128&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
+
 
 <!--
 **ReneCapella/ReneCapella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
