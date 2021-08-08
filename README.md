@@ -5,11 +5,13 @@
 ### What kind of projects do I like to work on?
 #### All the projects. 
 
-I am a philosopher, programmer, artist, mother, and human listening to music, solving problems, and finding ways to improve the experience between tech and humans.
+I am a philosopher, programmer, artist, mother, and humane technologist.
+Find me any day: listening to music, solving problems, rummaging on the banks of the Stillaguamish River and finding ways to improve the experience between tech and humans.
 
-Not bound by the modality, but certainly more experienced in engineering team processes, web tech, IoT, and empathy:)
+Not bound by any specific modality, but certainly more experienced in engineering team processes, web tech, and IoT.
 
-Skills: AWS, JS, NODE, HTML, CSS, RUBY, RAILS, PYTHON, JAVA
+**Tech Skills:** AWS, JS, NODE, HTML, CSS, RUBY, RAILS, PYTHON, JAVA
+**Life Skills:** parenting, friendship, emphathy, conflict resolution, introspection, humility.
 
 - 🔭 I’m currently working on this page. 
 
