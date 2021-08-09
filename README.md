@@ -15,6 +15,9 @@ Not bound by any specific modality, but certainly more experienced in engineerin
 
 **Life Skills:** parenting, friendship, emphathy, conflict resolution, introspection, humility.
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/6YuSe3suuEWlaizQKtyVkX)
+
+
 - 🔭 I’m currently working on this page. 
 
 
