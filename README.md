@@ -35,7 +35,7 @@ parenting, friendship, emphathy, conflict resolution, introspection, humility, c
 
 ### Connect with me  
 <div align="center">
-<a href="https://www.twitter.com/in/renecapella/" target="_blank">
+<a href="https://www.twitter.com/renecapella/" target="_blank">
 <img src=https://img.shields.io/badge/renecapella-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/amandarenecapella/" target="_blank">
